@@ -62,7 +62,7 @@ This project demonstrates the ability to:
   -Drive innovation by integrating AI into the research and decision-making process.
   
 ---
-# Project Higlights  
+# Project Highlights  
 
 Real-World Applications: 
 
