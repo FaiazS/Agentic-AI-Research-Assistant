@@ -35,14 +35,18 @@ Business Area: Medical Diagnostics
 Key Pain Points:
 
 1. Limited access to personalized diagnostic tools.
-2. High error rates in manual diagnoses.
-3. Delays in receiving test results.
+   
+3. High error rates in manual diagnoses.
+   
+5. Delays in receiving test results.
 
 Agentic AI Solutions:
 
 1. AI-powered diagnostic assistants for personalized care.
-2. Automated diagnostic tools for accurate and faster decision-making.
-3. Real-time AI-based analysis for instant results.
+   
+3. Automated diagnostic tools for accurate and faster decision-making.
+   
+5. Real-time AI-based analysis for instant results.
 ---
 
 ## How this project helps:
@@ -51,8 +55,8 @@ The Agentic AI Research Assistant serves as an example of how AI can automate an
 
 This project demonstrates the ability to:
 
--Leverage powerful AI models to automate business research.
+ -Leverage powerful AI models to automate business research.
 
--Identify key industry pain points that can be solved with AI.
+ -Identify key industry pain points that can be solved with AI.
 
--Drive innovation by integrating AI into the research and decision-making process.
+ -Drive innovation by integrating AI into the research and decision-making process.
