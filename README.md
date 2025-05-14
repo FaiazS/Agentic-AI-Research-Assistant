@@ -55,8 +55,8 @@ The Agentic AI Research Assistant serves as an example of how AI can automate an
 
 This project demonstrates the ability to:
 
- -Leverage powerful AI models to automate business research.
+  -Leverage powerful AI models to automate business research.
 
- -Identify key industry pain points that can be solved with AI.
+  -Identify key industry pain points that can be solved with AI.
 
- -Drive innovation by integrating AI into the research and decision-making process.
+  -Drive innovation by integrating AI into the research and decision-making process.
