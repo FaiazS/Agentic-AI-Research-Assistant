@@ -2,7 +2,8 @@
 
 The Agentic AI Research Assistant is an innovative AI-powered tool designed to help businesses and researchers identify Agentic AI opportunities and pain points across various industries. Using the powerful Groq API and the LLaMA 3.3-70B model, this assistant generates detailed, actionable insights that can drive the development of AI solutions for industry challenges.
 
-##Key Features:
+---
+# Key Features:
 
 AI-Powered Industry Research: Leverages state-of-the-art AI models to generate in-depth insights on industries and specific business areas, highlighting potential for Agentic AI solutions.
 
@@ -12,8 +13,9 @@ Multi-Turn Conversational Workflow: Capable of handling multi-step queries, enab
 
 User-Friendly: Simple interface for querying and receiving detailed, impactful results from the AI model.
 
+---
 
-##How It Works:
+# How It Works:
 
 Initial Research Query: The assistant queries the AI model to identify industries and business areas ripe for exploring Agentic AI opportunities.
 
@@ -21,8 +23,8 @@ Follow-Up Exploration: Based on the initial findings, the assistant refines the 
 
 Refined, Actionable Insights: The system provides an actionable overview of industry challenges and corresponding Agentic AI solutions that can drive innovation.
 
-
-##Example Output:
+---
+## Example Output:
 
 Here’s an example of the kind of insights the Agentic AI Research Assistant can provide:
 
@@ -41,8 +43,9 @@ Agentic AI Solutions:
 1. AI-powered diagnostic assistants for personalized care.
 2. Automated diagnostic tools for accurate and faster decision-making.
 3. Real-time AI-based analysis for instant results.
+---
 
-##How this project helps:
+## How this project helps:
 
 The Agentic AI Research Assistant serves as an example of how AI can automate and enhance the research process by quickly identifying areas where Agentic AI can provide tangible benefits. 
 
