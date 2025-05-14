@@ -60,3 +60,28 @@ This project demonstrates the ability to:
   -Identify key industry pain points that can be solved with AI.
 
   -Drive innovation by integrating AI into the research and decision-making process.
+  
+---
+# Project Higlights  
+
+Real-World Applications: 
+
+This assistant is designed to support businesses by identifying key pain points and suggesting AI-powered solutions for industries like healthcare, finance, and retail, showcasing the practical benefits of Agentic AI.
+
+AI-Driven Problem Solving: 
+
+By employing advanced language models like LLaMA 3.3-70B, this tool demonstrates the ability to apply AI to solve complex, industry-specific challenges.  
+
+---
+
+# Technology Stack:
+
+Groq API: 
+
+For AI-powered query generation.
+
+LLaMA 3.3-70B: 
+
+A state-of-the-art AI model used for generating and refining research insights.
+
+---
